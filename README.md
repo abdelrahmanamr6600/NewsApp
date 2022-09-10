@@ -12,7 +12,6 @@ This repository contains a **NewsApp** that implements Coroutines , mvvm archite
 *  mvvm architecture
 *  Clean architecture
 *  [Navigation component](https://developer.android.com/guide/navigation)
-*  [Hilt](https://developer.android.com/training/dependency-injection/hilt-jetpack) 
 *  [Retrofit2](https://square.github.io/retrofit/) 
 *  Single activity concept 
 *  Repository pattern
